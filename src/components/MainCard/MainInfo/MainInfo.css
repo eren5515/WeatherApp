@@ -1,0 +1,23 @@
+.MainDiv {
+  display: flex;
+  
+  align-items: center;
+  justify-content: center;
+  margin-top: 7rem;
+  margin-bottom: 3rem;
+  color: white;
+}
+
+.MainDiv div {
+  margin: 5rem;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+
+@media screen and (max-width: 960px) {
+   .MainDiv{
+   flex-direction: column;
+   }
+  }

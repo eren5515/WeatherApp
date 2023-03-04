@@ -1,0 +1,12 @@
+.MainCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:80%;
+    
+    border-radius: 2%;
+    text-align: center;
+    
+    
+}

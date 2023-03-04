@@ -1,0 +1,16 @@
+
+
+body {
+    background: linear-gradient(#0fb972, #2958be);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0;
+    height: 100vh;
+
+}
+
+@media screen and (max-width: 960px) {
+    body {
+        background: linear-gradient(90deg,#0fb972, #2958be);
+    }
+   }
